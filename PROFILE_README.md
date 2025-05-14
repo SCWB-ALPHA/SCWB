@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://i.imgur.com/6Uet0Aa.png" alt="banner" width="100%" />
+<img src="https://raw.githubusercontent.com/SCWB-ALPHA/assets/main/profile-banner-female-analyst.png" alt="Sandra's Profile Banner" width="100%" />
+
 
 ### 👋🏽 Hi there, I’m Sandra White-Belgrave  
 🧠 Deaf AI Data Analyst | 🧩 Python Learner | 🎓 Lifelong Educator & Advocate  
